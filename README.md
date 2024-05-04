@@ -1,4 +1,4 @@
-Utilizing **Power BI**, I have developed a comprehensive dashboard leveraging data from 1,471 rows and 40 columns to analyze key HR metrics to curb attrition and provide key insights and actionable recommendations. Generated dashboard to guide retention strategies and initiated necessary steps for insights.
+Utilizing **Power BI**, I have developed a comprehensive dashboard leveraging data from 1,471 rows and 40 columns to analyze key HR metrics to curb attrition, provide key insights and actionable recommendations. Generated dashboard to guide retention strategies and initiated necessary steps for insights.
 
 **♦ Data Cleaning using Excel**
 
